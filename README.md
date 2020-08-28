@@ -16,7 +16,7 @@ I am [AWS Community Hero][aws-hero] and a founder of [Betajob][betajob] - a comp
 ## Some of my open-source projects
 
 - [serverless.tf](https://serverless.tf) - Doing serverless with Terraform.
-- [Terraform cost estimation](https://github.com/antonbabenko/terraform-cost-estimations) - anonymized, secure, free.
+- [Terraform cost estimation](https://github.com/antonbabenko/terraform-cost-estimation) - anonymized, secure, free.
 - [Terraform AWS modules](https://github.com/terraform-aws-modules) which were provisioned more than 15 million times.
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) to keep Terraform projects clean and nice.
 - Remember to give a star to [terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) repository for a complete list of my projects and links.
