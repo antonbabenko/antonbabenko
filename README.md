@@ -35,4 +35,4 @@ I am [AWS Community Hero][aws-hero] and a founder of [Betajob][betajob] - a comp
 [website]: https://www.antonbabenko.com
 [twitter]: https://twitter.com/antonbabenko
 [linkedin]: https://linkedin.com/in/antonbabenko
-[youtube]: https://www.youtube.com/playlist?list=PLvz1V_9d3uisERhsmZDSxXWx3ZwAdoEe7
+[youtube]: http://bit.ly/terraform-youtube
