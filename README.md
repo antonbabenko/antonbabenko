@@ -1,8 +1,7 @@
 ### Hi there, I'm Anton 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/antonbabenko?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fantonbabenko&screen_name=antonbabenko)
-[![Twitch](https://img.shields.io/twitch/status/antonbabenko?color=1DA1F2&logo=twitch&style=for-the-badge)](https://twitch.tv/antonbabenko)
-[![YouTube live-stream](https://img.shields.io/badge/Your%20Weekly%20Dose%20of%20Terraform-live--streams-green?color=1DA1F2&logo=youtube&style=for-the-badge)][youtube]
+[![Your Weekly Dose of Terraform on YouTube](https://img.shields.io/badge/Your%20Weekly%20Dose%20of%20Terraform-live--streams-green?color=1DA1F2&logo=youtube&style=for-the-badge)][youtube]
 
 I am [AWS Community Hero][aws-hero] and a founder of [Betajob][betajob] - a company which helps build solutions using AWS and specializing in infrastructure as code, DevOps, and reusable infrastructure components.
 
