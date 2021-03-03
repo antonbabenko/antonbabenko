@@ -26,13 +26,14 @@ I am [AWS Community Hero][aws-hero] and a founder of [Betajob][betajob] - a comp
 
 ### Connect with me
 
-[<img align="left" alt="antonbabenko.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="antonbabenko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="antonbabenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="antonbabenko | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="antonbabenko | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-[<img align="left" alt="antonbabenko | Periscope" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/periscope.svg" />][periscope]
+[<img align="left" alt="antonbabenko.com" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="antonbabenko | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="antonbabenko | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="antonbabenko | YouTube" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="antonbabenko | Twitch" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="antonbabenko | Periscope" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/periscope.svg" />][periscope]<br />
 
+![](https://komarev.com/ghpvc/?username=antonbabenko&style=flat-square)
 
 [aws-hero]: https://aws.amazon.com/developer/community/heroes/anton-babenko/
 [betajob]: https://www.betajob.com
