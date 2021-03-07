@@ -33,6 +33,7 @@ I am [AWS Community Hero][aws-hero] and a founder of [Betajob][betajob] - a comp
 [<img align="left" alt="antonbabenko | Twitch" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="antonbabenko | Periscope" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/periscope.svg" />][periscope]<br />
 
+![](https://komarev.com/ghpvc/?username=antonbabenko&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=393243)
 
 [aws-hero]: https://aws.amazon.com/developer/community/heroes/anton-babenko/
