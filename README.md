@@ -33,7 +33,8 @@ I am [AWS Community Hero][aws-hero] and a founder of [Betajob][betajob] - a comp
 [<img align="left" alt="antonbabenko | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="antonbabenko | YouTube" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="antonbabenko | Twitch" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-[<img align="left" alt="antonbabenko | Periscope" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/periscope.svg" />][periscope]<br />
+[<img align="left" alt="antonbabenko | Periscope" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/periscope.svg" />][periscope]
+[<img align="left" alt="weekly.tf" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][weeklytf]<br />
 
 ![](https://komarev.com/ghpvc/?username=antonbabenko&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=393243)
