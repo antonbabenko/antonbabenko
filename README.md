@@ -1,7 +1,9 @@
 ### Hi there, I'm Anton 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/antonbabenko?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fantonbabenko&screen_name=antonbabenko)
-[![Your Weekly Dose of Terraform on YouTube](https://img.shields.io/badge/Your%20Weekly%20Dose%20of%20Terraform-live--streams-green?color=1DA1F2&logo=youtube&style=for-the-badge)][youtube]
+[![Your Weekly Dose of Terraform on YouTube](https://img.shields.io/badge/Your%20Weekly%20Dose%20of%20Terraform-live%20streams-green?color=1DA1F2&logo=youtube&style=for-the-badge)][youtube]
+[![Terraform Weekly Newsletter](https://img.shields.io/badge/Terraform%20Weekly-Newsletter-green?color=1DA1F2&logo=minutemailer&style=for-the-badge)][weeklytf]
+
 
 I am [AWS Community Hero][aws-hero] and a founder of [Betajob][betajob] - a company which helps build solutions using AWS and specializing in infrastructure as code, DevOps, and reusable infrastructure components.
 
@@ -11,7 +13,7 @@ I am [AWS Community Hero][aws-hero] and a founder of [Betajob][betajob] - a comp
 - [Travel](https://twitter.com/antonbabenko/status/1208503560733896706) to share knowledge on conferences, meetups, podcasts, workshops, mentorship, etc.
 - Figure out best&worst practices (by asking "Why?"), and publishing them as [Terraform best practices](https://www.terraform-best-practices.com) and [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
 - Open-source, Terraform and AWS
-- Live streaming is fun, too.
+- Live streaming and [newsletter](https://weekly.tf)'ing is fun, too.
 
 
 ## Some of my open-source projects
@@ -44,3 +46,4 @@ I am [AWS Community Hero][aws-hero] and a founder of [Betajob][betajob] - a comp
 [youtube]: http://bit.ly/terraform-youtube
 [twitch]: https://twitch.tv/antonbabenko
 [periscope]: https://periscope.tv/antonbabenko
+[weeklytf]: https://weekly.tf
