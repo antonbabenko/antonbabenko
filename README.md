@@ -18,9 +18,9 @@ I am [AWS Community Hero][aws-hero] and a founder of [Betajob][betajob] - a comp
 
 ## Some of my open-source projects
 
-- [serverless.tf](https://serverless.tf) - Doing serverless with Terraform.
+- [serverless.tf](https://serverless.tf) - Doing serverless on AWS with Terraform.
 - [Terraform cost estimation](https://github.com/antonbabenko/terraform-cost-estimation) - anonymized, secure, free.
-- [Terraform AWS modules](https://github.com/terraform-aws-modules) which were provisioned more than 50 million times.
+- [Terraform AWS modules](https://github.com/terraform-aws-modules) which were provisioned more than 200 million times.
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) to keep Terraform projects clean and nice.
 - [Hide posts about certifications in your LinkedIn newsfeed](https://github.com/antonbabenko/you-have-passed-the-certification) - Chrome extension.
 - Remember to give a star to [terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) repository for a complete list of my projects and links.
@@ -34,9 +34,6 @@ I am [AWS Community Hero][aws-hero] and a founder of [Betajob][betajob] - a comp
 [<img align="left" alt="antonbabenko | YouTube" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="antonbabenko | Twitch" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="weekly.tf" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][weeklytf]<br />
-
-![](https://komarev.com/ghpvc/?username=antonbabenko&style=flat-square)
-![](https://hit.yhype.me/github/profile?user_id=393243)
 
 [aws-hero]: https://aws.amazon.com/developer/community/heroes/anton-babenko/
 [betajob]: https://www.betajob.com
