@@ -20,7 +20,8 @@ I like getting to the core of a complex problem and eventually simplifying it so
 - [serverless.tf](https://serverless.tf) - doing serverless on AWS with Terraform.
 - [Terraform AWS modules](https://github.com/terraform-aws-modules), which have been provisioned more than 2 billion times.
 - [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) to keep Terraform projects clean and nice.
-- [agent-plugins](https://github.com/antonbabenko/agent-plugins) and [claude-delegator](https://github.com/antonbabenko/claude-delegator) - Claude Code plugins for multi-model consensus (GPT, Gemini, Grok) and Terraform-aware coding skills.
+- [deliberation](https://github.com/antonbabenko/deliberation) - get a second opinion from GPT, Gemini, Grok, and 300+ more models. Works in Claude Code, Cursor, Codex CLI, and any tool with MCP support.
+- [agent-plugins](https://github.com/antonbabenko/agent-plugins) - skills for AI coding agents (Claude Code, Cursor, Copilot, Gemini CLI, OpenCode, Codex) that load on demand while the agent works.
 - Remember to give a star to the [terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) repository for a complete list of my projects and links.
 
 ### Connect with me
